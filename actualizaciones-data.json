@@ -1,0 +1,8 @@
+{
+    "online": true,
+    "1.11": {
+        "lastVersion" : 1.0,
+        "lastDownload" : "http://djbiokinetix.com/download/actualizacion.jar",
+        "cambiosBreves" : "Primer pull request del plugin."
+    }
+}
