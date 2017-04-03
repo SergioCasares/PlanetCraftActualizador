@@ -1,8 +1,8 @@
 {
     "en-linea": true,
     "1.11": {
-        "lastVersion" : 1.0,
-        "lastDownload" : "http://djbiokinetix.com/download/actualizacion.jar",
-        "cambiosBreves" : "Primer pull request del plugin."
+        "ultimaVersion" : 1.0,
+        "ultimaDescarga" : "http://djbiokinetix.com/download/actualizacion.jar",
+        "cambiosRecientes" : "Primer pull request del plugin."
     }
 }
